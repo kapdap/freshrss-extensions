@@ -4,4 +4,4 @@ This repository contains unofficial FreshRSS extensions created by [@Kapdap](htt
 
 ## Clickable Links
 
-Replaces non-clickable plain text URLs found in articles to clickable HTML links.
+Replaces non-clickable plain text URLs found in articles with clickable HTML links.

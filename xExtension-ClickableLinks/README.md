@@ -1,6 +1,6 @@
 # FreshRSS Clickable Links extension
 
-A FreshRSS extension that replaces non-clickable plain text URLs found in articles to clickable HTML links.
+A FreshRSS extension that replaces non-clickable plain text URLs found in articles with clickable HTML links.
 
 ## Installation
 

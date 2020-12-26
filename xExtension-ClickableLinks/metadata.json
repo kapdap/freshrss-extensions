@@ -1,7 +1,7 @@
 {
     "name": "Clickable Links",
     "author": "Kapdap",
-    "description": "Replaces non-clickable plain text URLs found in articles to clickable HTML links.",
+    "description": "Replaces non-clickable plain text URLs found in articles with clickable HTML links.",
     "version": 1.00,
     "entrypoint": "ClickableLink",
     "type": "user"
