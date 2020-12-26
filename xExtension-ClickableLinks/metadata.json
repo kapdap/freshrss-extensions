@@ -1,8 +1,8 @@
 {
-	"name": "Clickable Links",
-	"author": "Kapdap",
-	"description": "Convert plain text URLs to clickable HTML links.",
-	"version": 0.10,
-	"entrypoint": "ClickableLink",
-	"type": "user"
+    "name": "Clickable Links",
+    "author": "Kapdap",
+    "description": "Replaces non-clickable plain text URLs found in articles to clickable HTML links.",
+    "version": 1.00,
+    "entrypoint": "ClickableLink",
+    "type": "user"
 }
