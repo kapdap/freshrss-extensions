@@ -1,9 +1,14 @@
 {
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "74ea7d99737a95a259b9bcdb4a9adc4c",
     "packages": [
         {
             "name": "symfony/polyfill-php72",
             "version": "v1.23.0",
-            "version_normalized": "1.23.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
@@ -18,7 +23,6 @@
             "require": {
                 "php": ">=7.1"
             },
-            "time": "2021-05-27T09:17:38+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -29,7 +33,6 @@
                     "url": "https://github.com/symfony/polyfill"
                 }
             },
-            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Polyfill\\Php72\\": ""
@@ -77,12 +80,11 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-php72"
+            "time": "2021-05-27T09:17:38+00:00"
         },
         {
             "name": "vstelmakh/url-highlight",
             "version": "v3.0.1",
-            "version_normalized": "3.0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vstelmakh/url-highlight.git",
@@ -107,9 +109,7 @@
                 "squizlabs/php_codesniffer": "^3.5",
                 "vstelmakh/covelyzer": "^0.2"
             },
-            "time": "2021-11-14T16:21:31+00:00",
             "type": "library",
-            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "VStelmakh\\UrlHighlight\\": "src/"
@@ -139,9 +139,16 @@
                 "issues": "https://github.com/vstelmakh/url-highlight/issues",
                 "source": "https://github.com/vstelmakh/url-highlight/tree/v3.0.1"
             },
-            "install-path": "../vstelmakh/url-highlight"
+            "time": "2021-11-14T16:21:31+00:00"
         }
     ],
-    "dev": true,
-    "dev-package-names": []
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
 }

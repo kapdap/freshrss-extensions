@@ -1,0 +1,5 @@
+{
+    "require": {
+        "vstelmakh/url-highlight": "^3.0"
+    }
+}
